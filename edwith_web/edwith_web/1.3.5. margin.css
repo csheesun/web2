@@ -1,0 +1,12 @@
+* {
+  border:1px solid gray;
+}
+
+.bottom {
+  margin-top : 1200px;
+  margin-left: 100px;
+}
+
+/* 상대적인 배치를 다르게 할 수가 있습니다.
+margin 값을 이용해서도 간격으로 배치를 할 수가 있다
+*/
